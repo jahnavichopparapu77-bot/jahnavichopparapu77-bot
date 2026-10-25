@@ -1,62 +1,99 @@
-# Hi 👋, I'm Jahnavi Chopparapu
+<h1 align="center">Hi 👋, I'm Jahnavi Chopparapu</h1>
 
-<h3 align="center">Software Engineer | Python | Network Automation | API Testing</h3>
+<h3 align="center">Software Engineer · Network Automation · API Testing · Backend Development</h3>
 
 <p align="center">
-  Building reliable automation solutions and exploring distributed systems, networking, and backend development.
+  I build reliable, testable automation for networks and APIs, and I'm growing into backend and cloud-native engineering.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jahnavi-chopparapu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jahnavichopparapu77@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/jahnavichopparapu77-bot"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jahnavichopparapu77-bot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
 ## 👩‍💻 About Me
 
-- 💻 Interested in software engineering, network automation, and backend development.
-- 🐍 Experienced with Python automation, REST API testing, and troubleshooting.
-- 🌐 Interested in TCP/IP, HTTP/HTTPS, networking protocols, and distributed systems.
-- 🧪 Worked with pyATS, Postman, Selenium, and API validation.
-- 🌱 Currently learning FastAPI, Playwright, Docker, Jenkins, and AWS.
-- 🚀 Exploring Linux, CI/CD, observability, and reliable software systems.
-- 🔬 Interested in FPGA implementation of logic circuits using LNN and LSTM for self-adapting digital systems.
-- 💬 Ask me about Python, REST APIs, pyATS, Selenium, SQL, and networking.
-- 📫 Reach me at: **jahnavichopparapu77@gmail.com**
+I'm a software engineer with hands-on experience in **Python automation, REST API testing and network troubleshooting**. I enjoy turning repetitive, error-prone manual work into clean, repeatable automated checks.
 
-## 🛠️ Languages and Tools
+- 🐍 **Automation:** Python scripting, pyATS test automation, Selenium UI testing
+- 🔌 **API testing:** REST API validation with Postman and Python
+- 🌐 **Networking:** TCP/IP, HTTP/HTTPS and network protocol troubleshooting
+- 🗄️ **Data:** SQL and MySQL
+- 🌱 **Currently learning:** FastAPI, Playwright, Docker, Jenkins, AWS
+- 🚀 **Exploring:** Linux, CI/CD pipelines, observability and distributed systems
+- 🔬 **Research interest:** FPGA implementation of logic circuits using LNN and LSTM for self-adapting digital systems
 
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
-  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-</p>
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Testing & Automation**
+
+![pyATS](https://img.shields.io/badge/pyATS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+**DevOps & Cloud**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
 
 ## 🚀 Featured Project
 
 ### FPGA Implementation of Logic Circuits Using LNN and LSTM for Self-Adapting Digital Systems
 
-Research project exploring adaptive digital systems using logic circuits and machine learning techniques.
+A research project exploring **adaptive digital systems** that combine hardware logic circuits with machine learning (Logic Neural Networks and LSTM) so that designs can adjust their behaviour on their own.
 
-[View Project Details](https://drive.google.com/file/d/1x62rVWhb4WZzYp_1q7CPDJ6F9J3bAgo9/view?usp=sharing)
+| | |
+|---|---|
+| **Area** | Digital design · FPGA · Machine learning |
+| **Focus** | Self-adapting logic circuits |
+| **Details** | [📄 View project report](https://drive.google.com/file/d/1x62rVWhb4WZzYp_1q7CPDJ6F9J3bAgo9/view?usp=sharing) |
 
-## 🤝 Connect With Me
+<!--
+TODO: Add more projects here as a table or pinned repositories. Suggested ideas:
+  - A pyATS network test suite (sanitised, no company data)
+  - A REST API test framework with Postman collections / Python
+  - A small FastAPI service with Docker + a Jenkins pipeline
+Each project should have: one-line summary, tech used, and a repo or report link.
+-->
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jahnavi-chopparapu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/jahnavichopparapu77-bot" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
-  </a>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jahnavichopparapu77-bot&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavichopparapu77-bot&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-⭐ *Always learning, building, testing, and improving.*
+## 🤝 Let's Connect
+
+I'm open to opportunities in **software engineering, test/network automation and backend development**.
+
+📫 **Email:** [jahnavichopparapu77@gmail.com](mailto:jahnavichopparapu77@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/jahnavi-chopparapu](https://www.linkedin.com/in/jahnavi-chopparapu/)
+
+<p align="center"><i>Always learning, building, testing, and improving. ⭐</i></p>
