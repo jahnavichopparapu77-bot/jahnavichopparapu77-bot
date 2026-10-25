@@ -46,6 +46,8 @@ I'm a software engineer with hands-on experience in **Python automation, REST AP
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -70,12 +72,41 @@ A research project exploring **adaptive digital systems** that combine hardware 
 | **Focus** | Self-adapting logic circuits |
 | **Details** | [📄 View project report](https://drive.google.com/file/d/1x62rVWhb4WZzYp_1q7CPDJ6F9J3bAgo9/view?usp=sharing) |
 
+---
+
+## 🔌 REST API Testing & Automation
+
+I validate REST APIs end to end, checking that services behave correctly, fail gracefully and stay consistent across releases.
+
+| Area | What I cover |
+|---|---|
+| **HTTP methods** | GET, POST, PUT, PATCH, DELETE request/response validation |
+| **Status codes** | Success, client-error (4xx) and server-error (5xx) scenarios |
+| **Payloads** | JSON schema, field-level and data-type validation |
+| **Auth** | Token / header based authentication checks |
+| **Negative testing** | Invalid inputs, missing fields, boundary and error handling |
+| **Tools** | Postman collections, Python (`requests`, `pytest`), CI runs via Jenkins |
+
+**Sample automated check (Python):**
+
+```python
+import requests
+
+def test_get_user_returns_200_and_valid_schema():
+    response = requests.get("https://api.example.com/users/1", timeout=10)
+
+    assert response.status_code == 200
+    body = response.json()
+    assert {"id", "name", "email"} <= body.keys()
+    assert isinstance(body["id"], int)
+```
+
+📁 *Full API test framework repository: coming soon.*
+
 <!--
-TODO: Add more projects here as a table or pinned repositories. Suggested ideas:
-  - A pyATS network test suite (sanitised, no company data)
-  - A REST API test framework with Postman collections / Python
-  - A small FastAPI service with Docker + a Jenkins pipeline
-Each project should have: one-line summary, tech used, and a repo or report link.
+TODO: Replace the sample above with a link to your real REST API test repo once it is public,
+e.g. [View repository](https://github.com/jahnavichopparapu77-bot/<repo-name>).
+Other project ideas: sanitised pyATS network test suite; FastAPI service with Docker + Jenkins pipeline.
 -->
 
 ---
