@@ -70,7 +70,6 @@ A research project exploring **adaptive digital systems** that combine hardware 
 |---|---|
 | **Area** | Digital design · FPGA · Machine learning |
 | **Focus** | Self-adapting logic circuits |
-| **Details** | [📄 View project report](https://drive.google.com/file/d/1x62rVWhb4WZzYp_1q7CPDJ6F9J3bAgo9/view?usp=sharing) |
 
 ---
 
